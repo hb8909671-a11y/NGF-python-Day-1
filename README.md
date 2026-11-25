@@ -1,1 +1,1 @@
-# NGF-python-Day-1
+# Hotel booking applicatiopn
